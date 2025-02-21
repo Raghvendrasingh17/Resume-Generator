@@ -15,8 +15,9 @@ A simple project built for college assignment, this Resume Generator creates res
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](/)
 
 ### Website Preview
-![Image]([https://github.com/user-attachments/assets/54cfea40-85b9-46ac-9bbd-0f955c67a6bd](https://github.com/Raghvendrasingh17/Resume-Generator/blob/master/text.jpg.png))
+<img src="https://github.com/Raghvendrasingh17/Resume-Generator/blob/master/text.jpg.png" />
+
 
 ![Image](https://github.com/user-attachments/assets/37067aaf-3094-4643-b4cf-da9243e3572c)
 
-![Image]([https://github.com/user-attachments/assets/dd73b574-0bde-4d78-a546-c11ed06e69f8](https://github.com/Raghvendrasingh17/Resume-Generator/blob/master/textt.jpg.png))
+<img src="https://github.com/Raghvendrasingh17/Resume-Generator/blob/master/textt.jpg.png" />
